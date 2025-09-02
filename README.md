@@ -1,4 +1,4 @@
-# Specialist Analytics Team's Machine Learning Hackation 2025-09-02
+# Specialist Analytics Team's Machine Learning Hackathon 2025-09-02
 
 - Install this environment using GitHub Desktop
 - Open Powershell (or the Terminal) from this folder and enter the command `uv sync`.
