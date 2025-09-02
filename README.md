@@ -1,0 +1,8 @@
+# Specialist Analytics Team's Machine Learning Hackation 2025-09-02
+
+- Install this environment using GitHub Desktop
+- Open Powershell (or the Terminal) from this folder and enter the command `uv sync`.
+- Copy the `train.csv` and `test.csv` data from the `Specialist Analytics > Work > XXXX - Development Epic for the Team > SAT Hackathon July 2025` folder into your "data" folder.
+- Open the `hackathon.ipynb` file to begin ~~fighting for your livelihood~~ having fun!
+
+**The `warehouse_connection.py file is there if we need to bring in additional data from the warehouse**

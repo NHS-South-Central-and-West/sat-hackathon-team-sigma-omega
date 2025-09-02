@@ -1,0 +1,20 @@
+[project]
+name = "sat-hackathon-team-sigma-omega"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "catboost>=1.2.8",
+    "ipykernel>=6.30.1",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
+    "pyodbc>=5.2.0",
+    "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.43",
+    "statsmodels>=0.14.5",
+    "xgboost>=3.0.4",
+    "yellowbrick>=1.5",
+]
