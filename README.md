@@ -6,3 +6,7 @@
 - Open the `hackathon.ipynb` file to begin ~~fighting for your livelihood~~ having fun!
 
 **The `warehouse_connection.py` file contains a template warehouse connection with `sqlalchemy` in case we need to bring in additional data.**
+
+## UPDATE:
+
+The notebook has now been annotated. It's probably easiest to download a copy of the updated notebook into your hackathon project folder and then run it against the same data. That will prevent it overwriting anything you did in your own copy of the notebook at the hackathon.
